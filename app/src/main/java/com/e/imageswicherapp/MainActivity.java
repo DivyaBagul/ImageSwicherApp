@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 //set the parameters of layout as view
                 return imageView;
             }
+            
         });
 
         // Declare in and out animations and load them using AnimationUtils class
